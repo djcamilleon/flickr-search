@@ -7,3 +7,9 @@
   font-size: 18px;
   margin-bottom: 25px;
 }
+
+.photoHeader {
+  font-family: "Gill Sans", cursive;
+  font-size: 48px;
+  color: navy;
+}

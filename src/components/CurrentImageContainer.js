@@ -11,6 +11,8 @@ const CurrentImageContainer = props => {
 
     return (
         <div>
+            <h1 class="photoHeader">Photo View</h1>
+
             <Link to='/results'>
                 <button class="resultsButton">
                     Return to Search Results
