@@ -1,0 +1,34 @@
+.flickrHeader {
+  font-family: "Gill Sans", cursive;
+  font-size: 48px;
+  color: navy;
+}
+
+.searchContainer {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+input[type="text"] {
+  display: block;
+  margin: 0 auto;
+  width: 325px;
+  height: 25px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.searchButton {
+  margin-top: 8px;
+  width: 100px;
+  height: 25px;
+  background-color: navy;
+  color: yellow;
+  font-size: 18px;
+}
+
+
+
+

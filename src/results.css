@@ -1,0 +1,37 @@
+.resultsHeader {
+  font-family: "Gill Sans", cursive;
+  font-size: 48px;
+  color: navy;
+}
+
+.resultsContainer {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+input[type="text"] {
+  display: block;
+  margin: 0 auto;
+  width: 325px;
+  height: 25px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.returnButton {
+  margin-top: 8px;
+  width: 200px;
+  height: 25px;
+  background-color: navy;
+  color: yellow;
+  font-size: 18px;
+  margin-bottom: 25px;
+}
+
+.resultsTable {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

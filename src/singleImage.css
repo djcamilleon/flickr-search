@@ -1,0 +1,9 @@
+.resultsButton {
+  margin-top: 8px;
+  width: 300px;
+  height: 25px;
+  background-color: navy;
+  color: yellow;
+  font-size: 18px;
+  margin-bottom: 25px;
+}
